@@ -2,6 +2,11 @@
 
 Using Pytorch and Flask
 
+## Files
+
+- MedNIST.ipynb contains research for the best model and results. 
+- mednist-classification contains the web app to classify X-ray images in subfolders.
+
 ## Requirements
 
 Install them from `requirements.txt`:
